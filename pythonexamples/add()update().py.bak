@@ -1,0 +1,3 @@
+s=set()
+s.update(10,)
+print(s)

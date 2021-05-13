@@ -1,0 +1,2 @@
+from mypatterns.shapes import patterns
+square()

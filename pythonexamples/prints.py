@@ -1,0 +1,5 @@
+print('ram')
+print('ram\nsita')
+print('ram\tsita')
+print('ram'+'sita')
+print(10*'ram')

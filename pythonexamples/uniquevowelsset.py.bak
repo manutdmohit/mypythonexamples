@@ -1,0 +1,3 @@
+word=input('Enter any word to search for vowels')
+s=set(word)
+print(s)

@@ -1,0 +1,4 @@
+s='Durga software solutions'
+s1=s.replace(' ','')
+print(s1)
+print('The no of spaces:',s.count(' '))

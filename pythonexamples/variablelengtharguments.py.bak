@@ -1,0 +1,5 @@
+def f1(*n):
+	print('variable length argument function')
+f1()
+f1(10)
+f1(10,20,30,40)

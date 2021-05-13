@@ -1,0 +1,14 @@
+def decor(func):
+	def inner(name):
+		if name=='Sunny':
+			print('Hi')
+		else:
+			func(name)
+	return inner
+	
+def wish(name):
+	print('Good Morning:',name)
+decor(wish)('Sunny')
+wish('Durga')
+wish('Sunny')
+

@@ -1,0 +1,13 @@
+f=open('tellseek.txt','w')
+f.write('ALL STUDENTS ARE STUPIDS')
+with open('tellseek.txt','r+') as f:
+    text=f.read()
+    print('Data before modification:')
+    print(text)
+    print('The current cursor position:',f.tell())
+    f.seek(17)
+    f.write('GEMS!!!')
+    f.seek(0)
+    text=f.read()
+    print('Data After Modification:')
+    print(text)

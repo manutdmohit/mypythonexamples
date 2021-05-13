@@ -1,0 +1,8 @@
+30/09/2020 03:06:59 PM:CRITICAL:f1logger:critical message from f1
+30/09/2020 03:06:59 PM:ERROR:f1logger:error message from f1
+30/09/2020 03:06:59 PM:WARNING:f1logger:warning message from f1
+30/09/2020 03:06:59 PM:INFO:f1logger:info message from f1
+30/09/2020 03:06:59 PM:DEBUG:f1logger:debug message from f1
+30/09/2020 03:06:59 PM:CRITICAL:f2logger:critical message from f2
+30/09/2020 03:06:59 PM:ERROR:f2logger:error message from f2
+30/09/2020 03:06:59 PM:WARNING:f2logger:warning message from f2

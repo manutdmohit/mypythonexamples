@@ -1,0 +1,6 @@
+x=10
+for t in x:
+	if x>40:
+		print('we are stooping program execution')
+		break
+	print('Hello')

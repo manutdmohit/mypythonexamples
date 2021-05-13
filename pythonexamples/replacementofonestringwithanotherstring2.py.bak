@@ -1,0 +1,3 @@
+s='Learning Python Is Very Difficult'
+s1=s.replace('difficult', 'Easy')
+print(s1)

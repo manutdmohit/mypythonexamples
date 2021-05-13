@@ -1,0 +1,3 @@
+s='ram sita'
+i=0
+for x in s:

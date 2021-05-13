@@ -1,0 +1,2 @@
+import module3
+module1.f1()

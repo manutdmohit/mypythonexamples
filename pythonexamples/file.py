@@ -1,0 +1,8 @@
+f=open('1111.txt','x')
+print('File Name:',f.name)
+print('file Mode:',f.mode)
+print('Is File Closed:',f.closed)
+print('Is File Readable',f.readable())
+print('Is File Writable:',f.writable())
+f.close()
+print('Is File Closed:',f.closed)

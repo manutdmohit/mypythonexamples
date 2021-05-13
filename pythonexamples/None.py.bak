@@ -1,0 +1,5 @@
+def f1():
+	return 10
+
+x=f1()
+print(x)

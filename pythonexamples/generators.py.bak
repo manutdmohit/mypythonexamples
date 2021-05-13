@@ -1,0 +1,4 @@
+g=(x*x for x in range(1000000000))
+print(type(g))
+while True:
+	print(next(g))

@@ -1,0 +1,7 @@
+f=open('abc1.txt','w')
+f.write('Durga\n')
+f.write('Software\n')
+f.write('Solutions\n')
+f.write('Hyderabad\n')
+f.close()
+print('Data written to the file')

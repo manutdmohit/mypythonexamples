@@ -1,0 +1,4 @@
+s='durgasoft'
+print('At even index:', s[::2])
+print('At even index:', s[1::2])
+

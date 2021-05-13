@@ -1,0 +1,8 @@
+f=open('abc1.txt','r')
+print(f.read(3))
+print(f.readline())
+print(f.readline())
+print(f.readline())
+print('Remaining Data:')
+print(f.read())
+f.close()

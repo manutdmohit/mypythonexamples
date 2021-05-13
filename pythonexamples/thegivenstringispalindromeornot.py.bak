@@ -1,0 +1,11 @@
+s=input('Enter first string:')
+x=s
+#print(sorted(s1))
+#print(sorted(s2))
+if s[::-1]==s:
+	print('The given string is palindrome')
+else:
+			print('The given string is not palindrome')
+
+
+

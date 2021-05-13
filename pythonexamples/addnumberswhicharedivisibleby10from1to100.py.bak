@@ -1,0 +1,5 @@
+l=[]
+for x in range(1,101):
+	ifx%10==0:
+		l.append(x)
+print(l)
